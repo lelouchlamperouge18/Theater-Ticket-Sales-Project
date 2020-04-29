@@ -1,8 +1,8 @@
-#This is THEATER TICKET SALES PROJECT#
+# This is THEATER TICKET SALES PROJECT
 
 **(C) CongSonHoang**
 
-##Problem:##
+## Problem:
 Write a program that can be used by a small theater to sell tickets for performances. The theater’s auditorium has 15 rows, with 30 seats in each row. The program should display a screen that shows which seats are available and which are taken. 
 
 The program should ask for the ticket type (Thursday Night - 8pm, Friday Night - 8pm, Saturday Night – 8pm, Saturday Matinee - 3pm, and Sunday Matinee - 3pm). Ticket Prices – Thursday Night/Saturday Matinee/Sunday Matinee ($20.00); Friday Night/Saturday Night ($40.00).
